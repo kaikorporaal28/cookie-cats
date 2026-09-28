@@ -2,9 +2,7 @@
 
 Cookie Cats is a mobile puzzle game where players progress through levels. At certain levels, players hit a gate; to pass the gate they must wait or make an in-app purchase before they can keep playing. This project analyzes an A/B test that move the first gate from level 30 to level 40, comparing the player retention rates between the two versions. 
 
-[**Live dashboard:** [link, added after GitHub Pages is set up]
-
-![Dashboard screenshot](dashboard_screenshot.png)](https://kaikorporaal28.github.io/cookie-cats/)
+[**Live dashboard:** (https://kaikorporaal28.github.io/cookie-cats/)]
 
 ## The Question
 Gates force players to take a break or to pay. That break keeps players from burning out and losing interest in the game, or it could frustrate them enought to quit the game. Where the first gate sits affects a players decision to come back to the game, and retention of free to play games like Cookie Cats relies on the consistency of its players. This analysis asks: **does moving the first gate from level 30 to level 40 change how many players return after 1 day and after 7 days?**
