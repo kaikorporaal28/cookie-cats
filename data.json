@@ -1,0 +1,130 @@
+{
+  "retention": [
+    {
+      "version": "gate_30",
+      "n_players": 42762,
+      "retention_1_percent": 46.75,
+      "retention_7_percent": 19.84
+    },
+    {
+      "version": "gate_40",
+      "n_players": 43432,
+      "retention_1_percent": 46.22,
+      "retention_7_percent": 19.03
+    }
+  ],
+  "buckets": [
+    {
+      "version": "gate_30",
+      "rounds_bucket": "1-10",
+      "n_players": 15736
+    },
+    {
+      "version": "gate_30",
+      "rounds_bucket": "11-29",
+      "n_players": 10371
+    },
+    {
+      "version": "gate_30",
+      "rounds_bucket": "30-39",
+      "n_players": 3090
+    },
+    {
+      "version": "gate_30",
+      "rounds_bucket": "40-99",
+      "n_players": 7398
+    },
+    {
+      "version": "gate_30",
+      "rounds_bucket": "100+",
+      "n_players": 6167
+    },
+    {
+      "version": "gate_40",
+      "rounds_bucket": "1-10",
+      "n_players": 16259
+    },
+    {
+      "version": "gate_40",
+      "rounds_bucket": "11-29",
+      "n_players": 10560
+    },
+    {
+      "version": "gate_40",
+      "rounds_bucket": "30-39",
+      "n_players": 2786
+    },
+    {
+      "version": "gate_40",
+      "rounds_bucket": "40-99",
+      "n_players": 7479
+    },
+    {
+      "version": "gate_40",
+      "rounds_bucket": "100+",
+      "n_players": 6348
+    }
+  ],
+  "retention_by_bucket": [
+    {
+      "version": "gate_30",
+      "rounds_bucket": "1-10",
+      "n_players": 15736,
+      "retention_7_percent": 1.93
+    },
+    {
+      "version": "gate_30",
+      "rounds_bucket": "11-29",
+      "n_players": 10371,
+      "retention_7_percent": 8.43
+    },
+    {
+      "version": "gate_30",
+      "rounds_bucket": "30-39",
+      "n_players": 3090,
+      "retention_7_percent": 15.73
+    },
+    {
+      "version": "gate_30",
+      "rounds_bucket": "40-99",
+      "n_players": 7398,
+      "retention_7_percent": 32.9
+    },
+    {
+      "version": "gate_30",
+      "rounds_bucket": "100+",
+      "n_players": 6167,
+      "retention_7_percent": 71.14
+    },
+    {
+      "version": "gate_40",
+      "rounds_bucket": "1-10",
+      "n_players": 16259,
+      "retention_7_percent": 1.94
+    },
+    {
+      "version": "gate_40",
+      "rounds_bucket": "11-29",
+      "n_players": 10560,
+      "retention_7_percent": 7.64
+    },
+    {
+      "version": "gate_40",
+      "rounds_bucket": "30-39",
+      "n_players": 2786,
+      "retention_7_percent": 15.69
+    },
+    {
+      "version": "gate_40",
+      "rounds_bucket": "40-99",
+      "n_players": 7479,
+      "retention_7_percent": 29.39
+    },
+    {
+      "version": "gate_40",
+      "rounds_bucket": "100+",
+      "n_players": 6348,
+      "retention_7_percent": 71.03
+    }
+  ]
+}
